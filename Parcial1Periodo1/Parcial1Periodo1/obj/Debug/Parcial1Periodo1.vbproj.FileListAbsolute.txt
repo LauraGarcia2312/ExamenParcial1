@@ -1,0 +1,11 @@
+C:\Users\Laura García\Desktop\Parcial1\Parcial1Periodo1\Parcial1Periodo1\bin\Debug\Parcial1Periodo1.exe.config
+C:\Users\Laura García\Desktop\Parcial1\Parcial1Periodo1\Parcial1Periodo1\bin\Debug\Parcial1Periodo1.exe
+C:\Users\Laura García\Desktop\Parcial1\Parcial1Periodo1\Parcial1Periodo1\bin\Debug\Parcial1Periodo1.pdb
+C:\Users\Laura García\Desktop\Parcial1\Parcial1Periodo1\Parcial1Periodo1\bin\Debug\Parcial1Periodo1.xml
+C:\Users\Laura García\Desktop\Parcial1\Parcial1Periodo1\Parcial1Periodo1\obj\Debug\Parcial1Periodo1.vbprojAssemblyReference.cache
+C:\Users\Laura García\Desktop\Parcial1\Parcial1Periodo1\Parcial1Periodo1\obj\Debug\Parcial1Periodo1.Resources.resources
+C:\Users\Laura García\Desktop\Parcial1\Parcial1Periodo1\Parcial1Periodo1\obj\Debug\Parcial1Periodo1.vbproj.GenerateResource.cache
+C:\Users\Laura García\Desktop\Parcial1\Parcial1Periodo1\Parcial1Periodo1\obj\Debug\Parcial1Periodo1.vbproj.CoreCompileInputs.cache
+C:\Users\Laura García\Desktop\Parcial1\Parcial1Periodo1\Parcial1Periodo1\obj\Debug\Parcial1Periodo1.exe
+C:\Users\Laura García\Desktop\Parcial1\Parcial1Periodo1\Parcial1Periodo1\obj\Debug\Parcial1Periodo1.xml
+C:\Users\Laura García\Desktop\Parcial1\Parcial1Periodo1\Parcial1Periodo1\obj\Debug\Parcial1Periodo1.pdb
